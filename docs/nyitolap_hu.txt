@@ -1,0 +1,15 @@
+Az Internet története az 1960-as évekre nyúlik vissza. 1969-ben az USA Hadügyminisztériuma telefonvonalon egy kísérleti jellegû, csomagkapcsolt hálózatot hozott létre (ARPAnet: Advanced Research Projects Agency Network). A hálózathoz egyre többen kapcsolódtak hozzá (pl. oktatási és kutatási intézmények). Az ARPAnet mellett létrehozták a hasonló technológiával mûködõ MILnet (Military Network) hálózatot, és 1983-ban a két hálózatot összekapcsolták.
+
+Az ARPANET-hez ezután több hálózat is hozzákapcsolódott; pl. a MInet (a MILnet európai megfelelõje), a SATnet és WIDEBAND (mûholdas hálózatok), az NFSnet (National Science Foundation Network), a BITnet (Because It's Time Network), a USEnet, stb. Így alakult ki az, amit ma Internet néven ismerünk.
+
+Az 1990-es években már a nagy számítógépes kereskedelmi szolgáltató központok (CompuServe, America Online, stb.) is elérhetõek lettek az Interneten keresztül és az üzleti alkalmazások köre azóta is rohamosan bõvül.
+
+Jelenleg több tízezer különbözõ számítógépes hálózat érhetõ el az Interneten, kiszolgálva több tízmillió felhasználót. Az Internet az intézményeken belüli információ szervezésére is hatással van: kialakult az intranet, az Internet technológiáját használó vállalati információs rendszer.
+
+ 
+
+Jelenleg Európát és Amerikát az óceánon át üvegkábelek kötik össze, és mûholdon keresztül is lehetséges az adatok átvitele. A jövõ lehetséges perspektívái közé tartozik az informatikai, hírközlõ, telekommunikációs és szórakoztató iparágak összefonódása és az Internet hálózat egységes kommunikációs közegként történõ használata (un. ICE age: Information - Communication - Entertainment).
+
+ 
+
+A nagy adatátviteli sebességet (un. sávszélességet) igénylõ multimédiás alkalmazások új technológiai megoldások kifejlesztését igénylik, amelyek biztosítják a multimédia információk (pl. hangok, mozgóképek) folyamatos átvitelét, azaz pl. garantálják az átvitelhez szükséges minimális sávszélességet.
