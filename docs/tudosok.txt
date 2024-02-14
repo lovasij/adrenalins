@@ -1,8 +1,8 @@
-Paul Baran
-﻿Vannevar Bush
-Vinton Cerf
-Douglas Engelbart
-Robert E. Kahn
-J.C.R. Licklider
-Robert Metcalfe
-Lawrence Roberts
+Paul Baran https://www.hte.hu/technikatorteneti-evfordulok/-/hir/95-eve-szuletett-paul-baran-a-szamitogep-halozatok-uttoro-fejlesztoje-a-csomagkapcsolas-egyik-megalapozoja
+﻿Vannevar Bush http://users.atw.hu/infism/programozas/az_internet_tortenete/bush.html
+Vinton Cerf https://www.hte.hu/fooldal/-/hir/80-eves-vinton-cerf-az-internet-egyik-atyja-a-tcp-ip-protokoll-megalkotoja
+Douglas Engelbart https://hvg.hu/tudomany/20070823_eger
+Robert E. Kahn https://static.hlt.bme.hu/semantics/external/pages/Codd/hu.wikipedia.org/wiki/Bob_Kahn.html
+J.C.R. Licklider https://szinte.hu/2020/07/16/az-internet-alapitoi/
+Robert Metcalfe https://www.hte.hu/technikatorteneti-evfordulok/-/hir/75-eves-robert-metcalfe-az-ethernet-atyja-a-3com-tarsalapitoja
+Lawrence Roberts https://en.wikipedia.org/wiki/Lawrence_Roberts_(scientist)
