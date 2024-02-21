@@ -1,8 +1,7 @@
-h1 {
-    background-color: lightblue;
-    margin-left: 20px;
-}
 body {
     background-color: beige;
     color: navy;
+}
+.kep-jobbra{
+    float: right;
 }
