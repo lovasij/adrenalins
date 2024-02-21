@@ -11,9 +11,10 @@ body {
     width:80px; 
 }
 .szovegtest{
-    margin: 0px,auto;
-    border-left: solid,20px,gray;
-    border-right: solid,20px,gray;
+    margin:  auto;
+    width: 800px;
+    border-left-style: solid,20px,gray;
+    border-right-style: solid,20px,gray;
 }
 .tudoskep{
     height: 50px;
