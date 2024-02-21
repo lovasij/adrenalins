@@ -13,8 +13,8 @@ body {
 .szovegtest{
     margin:  auto;
     width: 800px;
-    border-left-style: solid,20px,gray;
-    border-right-style: solid,20px,gray;
+    border-left: solid,20px,gray;
+    border-right: solid,20px,gray;
 }
 .tudoskep{
     height: 50px;
