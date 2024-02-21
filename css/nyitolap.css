@@ -3,7 +3,11 @@ body {
     color: navy;
 }
 .kep-jobbra{
-    display: block;
-    text-align: right;
+    float: right;
     width:80px; 
+}
+.szovegtest{
+    margin: 10px,150px;
+    border-left: solid,20px,gray;
+    border-right: solid,20px,gray;
 }
