@@ -1,6 +1,10 @@
 body {
     background-color: beige;
-    color: navy;
+    color:black;
+}
+.fokep{
+    display: block;
+    margin: 0, auto;
 }
 .kep-jobbra{
     float: right;
