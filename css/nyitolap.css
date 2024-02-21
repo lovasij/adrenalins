@@ -8,6 +8,10 @@ body {
 }
 .szovegtest{
     margin: 10px,150px;
-    border-left: solid,200px,gray;
-    border-right: solid,200px,gray;
+    border-left: solid,20px,gray;
+    border-right: solid,20px,gray;
+    background-color: blue;
+}
+.tudoskep{
+    height: 50px;
 }
