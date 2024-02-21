@@ -1,16 +1,19 @@
 body {
     background-color: beige;
-    color: navy;
+    color:black;
+}
+.fokep{
+    display: block;
+    margin: 0, auto;
 }
 .kep-jobbra{
     float: right;
     width:80px; 
 }
 .szovegtest{
-    margin: 10px,150px;
+    margin: 0px,auto;
     border-left: solid,20px,gray;
     border-right: solid,20px,gray;
-    background-color: blue;
 }
 .tudoskep{
     height: 50px;
