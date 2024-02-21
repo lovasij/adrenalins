@@ -3,6 +3,7 @@ body {
     color: navy;
 }
 .kep-jobbra{
+    display: block;
     float: right;
-    width:30px ;
+    width: 60px; 
 }
