@@ -5,6 +5,7 @@ body {
 .fokep{
     display: block;
     margin: 0, auto;
+    border: solid 2px lightslategrey;
 }
 .kep-jobbra{
     float: right;
@@ -29,5 +30,5 @@ body {
 .tudoskep{
     height: 100px;
     margin: 10px;
-    
+    border: solid 2px lightslategrey;
 }
