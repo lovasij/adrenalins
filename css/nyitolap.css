@@ -5,6 +5,11 @@ body {
 .fokep{
     display: block;
     margin: 0, auto;
+    border: solid 2px lightslategrey;
+}
+.kep-jobbra{
+    float: right;
+    width: 70px; 
 }
 .szovegtest{
     margin:  auto;
@@ -14,12 +19,13 @@ body {
     border-left: solid 50px gray;
     border-right: solid 50px gray;
     border-bottom: solid 10px gray;
-    background-color:cornsilk;
+    background-color:lightgrey;
     
 }
 .tudoskep{
     height: 100px;
     margin: 10px;
+    border: solid 2px lightslategrey;
 }
 .kep-fent {
     float: right;
