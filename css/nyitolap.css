@@ -8,7 +8,7 @@ body {
 }
 .kep-jobbra{
     float: right;
-    width:80px; 
+    width: 70px; 
 }
 .szovegtest{
     margin:  auto;
@@ -22,5 +22,6 @@ body {
     
 }
 .tudoskep{
-    height: 50px;
+    height: 100px;
+    margin: 10px;
 }
