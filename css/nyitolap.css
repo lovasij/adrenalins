@@ -6,10 +6,6 @@ body {
     display: block;
     margin: 0, auto;
 }
-.kep-jobbra{
-    float: right;
-    width: 70px; 
-}
 .szovegtest{
     margin:  auto;
     width: 900px;
@@ -24,4 +20,18 @@ body {
 .tudoskep{
     height: 100px;
     margin: 10px;
+}
+.kep-fent {
+    float: right;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 70px;
+}
+.kep-lent {
+    float: right;
+    position: relative;
+    top: 40px;
+    left: 70px;
+    width: 70px;
 }
