@@ -1,14 +1,15 @@
-body {
+body{
     background-color:lightslategrey;
     color:black;
 }
 .fokep{
     display: block;
     margin: 0, auto;
+    border: solid 2px lightslategrey;
 }
 .kep-jobbra{
     float: right;
-    width:80px; 
+    width: 70px; 
 }
 .szovegtest{
     margin:  auto;
@@ -18,9 +19,29 @@ body {
     border-left: solid 50px gray;
     border-right: solid 50px gray;
     border-bottom: solid 10px gray;
-    background-color:cornsilk;
+    background-color:lightgrey;
     
 }
 .tudoskep{
-    height: 50px;
+    height: 100px;
+    margin: 10px;
+    border: solid 2px lightslategrey;
+}
+.kep-fent {
+    float: right;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 70px;
+}
+.kep-lent {
+    float: right;
+    position: relative;
+    top: 40px;
+    left: 70px;
+    width: 70px;
+}
+.kep-kozep{
+    text-align: center;
+    margin:  0 auto
 }
