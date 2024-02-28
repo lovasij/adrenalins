@@ -1,4 +1,4 @@
-body {
+body{
     background-color:lightslategrey;
     color:black;
 }
@@ -40,4 +40,8 @@ body {
     top: 40px;
     left: 70px;
     width: 70px;
+}
+.kep-kozep{
+    text-align: center;
+    margin:  0 auto
 }
