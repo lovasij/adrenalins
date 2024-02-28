@@ -10,6 +10,9 @@ body {
     float: right;
     width: 70px; 
 }
+.kep-kozep{
+    margin: 0 auto
+}
 .szovegtest{
     margin:  auto;
     width: 900px;
