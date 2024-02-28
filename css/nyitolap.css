@@ -46,3 +46,8 @@ body{
     text-align: center;
     margin:  0 auto
 }
+.munkassag {
+    float: right;
+    width: 400px;
+    height: auto;
+}
