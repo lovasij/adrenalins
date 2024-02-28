@@ -9,7 +9,8 @@ body{
 }
 .kep-jobbra{
     float: right;
-    width: 70px; 
+    width: 400px; 
+    border: 2px solid lightslategrey;
 }
 .szovegtest{
     margin:  auto;
