@@ -1,11 +1,13 @@
 body{
     background-color:lightslategrey;
     color:black;
+    font-family: Arial, Helvetica;
 }
 .fokep{
     display: block;
     margin: 0, auto;
     border: solid 2px lightslategrey;
+    width: 895px;
 }
 .kep-jobbra{
     float: right;
