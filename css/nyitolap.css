@@ -52,3 +52,6 @@ body{
     width: 400px;
     height: auto;
 }
+a:link, a:visited, a:hover, a:active {
+    color: lightgray;
+}
