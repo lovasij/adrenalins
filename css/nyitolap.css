@@ -1,6 +1,7 @@
 body{
     background-color:lightslategrey;
     color:black;
+    font-family: Arial, Helvetica;
 }
 .fokep{
     display: block;
@@ -14,7 +15,7 @@ body{
 }
 .szovegtest{
     margin:  auto;
-    width: 900px;
+    width: 805px;
     padding: 5px;
     border-top: solid 10px gray;
     border-left: solid 50px gray;
@@ -50,4 +51,7 @@ body{
     float: right;
     width: 400px;
     height: auto;
+}
+a:link, a:visited, a:hover, a:active {
+    color: lightgray;
 }
